@@ -1,0 +1,30 @@
+# ukraine.avokatfinder.com — llms.txt
+# Lawyers and notaries in Ukraine
+
+## Pages
+url: https://ukraine.avokatfinder.com/
+url: https://ukraine.avokatfinder.com/blog/employment-law-guide-expats-ukraine/
+url: https://ukraine.avokatfinder.com/blog/guide-to-lawyers-in-ukraine/
+url: https://ukraine.avokatfinder.com/blog/immigration-law-guide-expats-ukraine/
+url: https://ukraine.avokatfinder.com/blog/real-estate-law-guide-expats-ukraine/
+url: https://ukraine.avokatfinder.com/blog/lawyers-notaries-guide/
+url: https://ukraine.avokatfinder.com/practice-areas/banking-finance/
+url: https://ukraine.avokatfinder.com/practice-areas/corporate-ma/
+url: https://ukraine.avokatfinder.com/practice-areas/criminal-law/
+url: https://ukraine.avokatfinder.com/practice-areas/data-protection/
+url: https://ukraine.avokatfinder.com/practice-areas/dispute-resolution/
+url: https://ukraine.avokatfinder.com/practice-areas/employment/
+url: https://ukraine.avokatfinder.com/practice-areas/family-law/
+url: https://ukraine.avokatfinder.com/practice-areas/golden-visa/
+url: https://ukraine.avokatfinder.com/practice-areas/immigration/
+url: https://ukraine.avokatfinder.com/practice-areas/intellectual-property/
+url: https://ukraine.avokatfinder.com/practice-areas/real-estate/
+url: https://ukraine.avokatfinder.com/practice-areas/tax/
+url: https://ukraine.avokatfinder.com/cities/kyiv/
+url: https://ukraine.avokatfinder.com/cities/kharkiv/
+url: https://ukraine.avokatfinder.com/cities/odessa/
+url: https://ukraine.avokatfinder.com/cities/dnipro/
+url: https://ukraine.avokatfinder.com/cities/zaporizhzhia/
+url: https://ukraine.avokatfinder.com/cities/lviv/
+url: https://ukraine.avokatfinder.com/cities/mykolaiv/
+url: https://ukraine.avokatfinder.com/cities/vinnytsia/
