@@ -1,2 +1,0 @@
-# avokatfinder-ukraine
-AvokatFinder Ukraine
