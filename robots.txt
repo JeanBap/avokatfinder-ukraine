@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://ukraine.avokatfinder.com/sitemap.xml
