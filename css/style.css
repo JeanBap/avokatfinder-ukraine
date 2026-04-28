@@ -547,3 +547,13 @@ section { padding: clamp(3rem, 6vw, 5rem) 24px; }
 .stars        { color:#f59e0b; letter-spacing:1px; }
 .review-count { color:#6b7280; font-size:0.8rem; }
 .firm-rating-empty { color:#6b7280; font-size:0.82rem; }
+
+/* ── FAQ ACCORDION ───────────────────────────────────────────────────────── */
+.faq-list { max-width:800px; margin:0 auto; display:flex; flex-direction:column; gap:12px; }
+.faq-item { background:var(--white,#fff); border:1px solid #e2e8f0; border-radius:12px; overflow:hidden; }
+.faq-q { width:100%; display:flex; justify-content:space-between; align-items:center; gap:16px; padding:18px 24px; background:none; border:none; cursor:pointer; font-family:inherit; font-size:1rem; font-weight:600; text-align:left; color:var(--dark,#0a1628); line-height:1.4; }
+.faq-q:hover { background:var(--off-white,#f8f9fa); }
+.faq-icon { flex-shrink:0; font-size:1.4rem; font-weight:300; color:var(--country-primary,#0a1628); transition:transform .2s; }
+.faq-q[aria-expanded="true"] .faq-icon { transform:rotate(45deg); }
+.faq-a { padding:0 24px 18px; color:var(--text-muted,#4b5563); line-height:1.7; }
+.faq-a p { margin:0; }

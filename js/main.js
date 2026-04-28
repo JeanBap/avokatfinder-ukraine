@@ -329,6 +329,25 @@ function initFilter() {
     loadReviews(slug, widget);
   });
 
+  // FAQ accordion (.faq-q / .faq-a pattern)
+  document.querySelectorAll('.faq-q').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const answer = btn.nextElementSibling;
+      const isOpen = btn.getAttribute('aria-expanded') === 'true';
+      // Close all
+      document.querySelectorAll('.faq-q').forEach(b => {
+        b.setAttribute('aria-expanded', 'false');
+        const a = b.nextElementSibling;
+        if (a) a.hidden = true;
+      });
+      // Open this one if it was closed
+      if (!isOpen) {
+        btn.setAttribute('aria-expanded', 'true');
+        if (answer) answer.hidden = false;
+      }
+    });
+  });
+
   // Filter bar
   initFilter();
 
