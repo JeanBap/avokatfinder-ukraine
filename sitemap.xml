@@ -78,7 +78,7 @@
   <url>
     <loc>https://ukraine.avokatfinder.com/blog/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ukraine.avokatfinder.com/find-a-lawyer/</loc>
@@ -129,6 +129,11 @@
     <loc>https://ukraine.avokatfinder.com/blog/moving-to-ukraine-essential-documents-guide/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ukraine.avokatfinder.com/cities/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://ukraine.avokatfinder.com/cities/</loc>
