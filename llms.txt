@@ -1,5 +1,31 @@
 # AvökatFinder Ukraine
-> English-speaking law firm directory for Ukraine
+> The English-language directory of lawyers and law firms in Ukraine for expats, foreign nationals and international businesses.
 
-Directory: https://ukraine.avokatfinder.com
-Email: info@avokatfinder.com
+## Main Pages
+- https://ukraine.avokatfinder.com/: Home — find an English-speaking lawyer in Ukraine
+- https://ukraine.avokatfinder.com/lawyers/: Directory of verified law firms and lawyers in Ukraine
+- https://ukraine.avokatfinder.com/glossary/: Legal glossary — plain-English definitions of Ukraine legal terms
+- https://ukraine.avokatfinder.com/blog/: Expat legal guides and property law articles for Ukraine
+- https://ukraine.avokatfinder.com/about/: About AvökatFinder Ukraine
+- https://ukraine.avokatfinder.com/contact/: Contact us
+
+## Legal Glossary Terms
+- https://ukraine.avokatfinder.com/glossary/banking-law/
+- https://ukraine.avokatfinder.com/glossary/dohovir-kupivli-prodazhu/
+- https://ukraine.avokatfinder.com/glossary/dohovir-orendy/
+- https://ukraine.avokatfinder.com/glossary/employment-termination/
+- https://ukraine.avokatfinder.com/glossary/intellectual-property/
+- https://ukraine.avokatfinder.com/glossary/ipoteka-ukraine/
+- https://ukraine.avokatfinder.com/glossary/notarius-ukraine/
+- https://ukraine.avokatfinder.com/glossary/rehestr-neruhomosti/
+
+## Site Info
+- Language: English
+- Audience: Expats, foreign nationals, international property buyers and businesses in Ukraine
+- Content: Law firm directory, legal glossary, expat legal guides
+- Last updated: 2026-04-30
+- Sitemap: https://ukraine.avokatfinder.com/sitemap.xml
+
+## Permissions
+User-agent: *
+Allow: /
